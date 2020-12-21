@@ -1,0 +1,12 @@
+﻿  MyOGL.cpp
+  OpenGLrememberProj.cpp
+S:\1\OpenGLrememberProj\OpenGLrememberProj.cpp(149,12): warning C4101: wmEvent: неиспользованная локальная переменная
+S:\1\OpenGLrememberProj\OpenGLrememberProj.cpp(149,6): warning C4101: wmId: неиспользованная локальная переменная
+  Render.cpp
+S:\1\OpenGLrememberProj\Render.cpp(303,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  0 of 256 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  OpenGLrememberProj.vcxproj -> S:\1\Release\OpenGLrememberProj.exe
